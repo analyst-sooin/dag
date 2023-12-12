@@ -1,6 +1,6 @@
 import pendulum
 from datetime import datetime
-from airflow import dags
+from airflow import dag
 from airflow.operators.dummy_operator import DummyOperator
 from airflow.operators.python_operator import PythonOperator
 
