@@ -13,7 +13,7 @@ with DAG(
     # You can override them on a per-task basis during operator initialization
     default_args={
         'depends_on_past': False,
-        'email': ['hjjung217@gmail.com'],
+        'email': ['pape4731@gmail.com'],
         'email_on_failure': False,
         'email_on_retry': False,
         'retries': 1,
